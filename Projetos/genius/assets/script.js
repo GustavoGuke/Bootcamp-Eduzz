@@ -74,11 +74,11 @@ let nextLevel = () => {
 }
 
 let lose = () => {
-    score--
+    score = 0
     alert('você perdeu')
     order = []
     clickOrder = []
-    total.innerHTML = --score
+    total.innerHTML = score
     
     playGame()
 }
