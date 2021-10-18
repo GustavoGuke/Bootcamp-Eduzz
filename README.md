@@ -33,7 +33,7 @@
 
 ### Projetos
 
-- [] Jogo de memória estilo Genius
+- [x] Jogo de memória estilo Genius
 - [] Criando um front-end componentizado com Reactjs
 - [] Encurtador de url com Nodejs, Typescript e MongoDB
 
