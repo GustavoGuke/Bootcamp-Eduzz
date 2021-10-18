@@ -13,11 +13,11 @@
 - [x] Desenvolvimento avançado com JavaScript es6 
 - [x] Introdução ao typeScript
 - [x] Fundamentos de Arquitetura de Sistemas 
+- [x] Introdução ao Reactjs
+- [x] Trabalhando com Componentes Reactjs
 
 ### Cursos para concluir
 
-- [] Introdução ao Reactjs
-- [] Trabalhando com Componentes Reactjs
 - [] Desenvolvimento de app para internet com Reactjs
 - [] Praticas Avançadas com Reactjs
 - [] Introdução ao Reactjs Hooks
