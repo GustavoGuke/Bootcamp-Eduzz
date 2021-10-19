@@ -4,10 +4,9 @@ import Button from '../Button'
 
 const Estado = () => {
     let estilo = {
-        marginTop: `15px`,
-        padding: `5px`,
+        marginTop: `5px`,
         border: `1px solid gray`,
-        width: `330px`,
+        width: `230px`,
         height: `200px`
     }
 

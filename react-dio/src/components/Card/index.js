@@ -1,18 +1,20 @@
-const Card = () => {
+const Card = ({children, nomeCurso}) => {
 
   
     let estilo = {
         marginTop: `15px`,
         padding: `5px`,
         border: `1px solid gray`,
-        width: `330px`,
-        height: `200px`
+        width: `430px`,
+        height: `400px`,
     }
     return (
         <div>
             <div style={estilo}>
-                <h1> Card</h1>
-                <p>texto</p>
+                <h1>{nomeCurso}</h1>
+                
+                    {children}
+                
             </div>
         </div>
     )
